@@ -1,4 +1,5 @@
 {
+  "name": "@ghostery/abp2dnr",
   "license": "GPL-3.0",
   "repository": {},
   "dependencies": {
